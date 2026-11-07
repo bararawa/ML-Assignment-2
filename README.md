@@ -5,7 +5,8 @@
 ---
 
 ### 👥 Student Details
-- **Student Name:** Ravi Bararawa
+- **Student Name:** Ravindra Bararawa
+- **Student ID:** 2026AJ05551
 - **GitHub Username:** Bararawa
 - **Repository Link:** https://github.com/Bararawa/ML-Assignment-2
 - **Live Streamlit App Link:** https://ml-assignment-2-portal.streamlit.app
@@ -41,7 +42,7 @@ project-folder/
 ---
 
 ## 3. Dataset Description
-- **Dataset Source:** Programmatically generated synthetic high-dimensional customer metrics to represent customer churn behavior.
+- **Dataset Source:** Programmatically generated customer metrics matching customer churn behavior.
 - **Total Instances:** 1,000 (800 rows for model training, 200 rows held out for test-set evaluation in `test_data.csv`).
 - **Total Features:** 12 numerical input features (named `feature_1` to `feature_12`).
 - **Target Class:** Binary (`0` = Loyal/Stayed, `1` = Churned/Left).
